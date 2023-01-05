@@ -7,7 +7,7 @@ export const BasicTheme = ({children}) => {
       <div>
           <Head>
               <title>Nknight AMAMIYA official</title>
-              <link rel="icon" href="../public/favicon.ico"/>
+              <link rel="icon" href="/favicon.ico"/>
           </Head>
           <Box className={style.Main}>
               <Box className={style.header}>
