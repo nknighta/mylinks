@@ -8,6 +8,7 @@ export const BasicTheme = ({children}) => {
           <Head>
               <title>Nknight AMAMIYA official</title>
               <link rel="icon" href="/favicon.ico"/>
+              <meta name="twitter:image" content=""/>
           </Head>
           <Box className={style.Main}>
               <Box className={style.header}>
