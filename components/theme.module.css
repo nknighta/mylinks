@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital@1&display=swap");
+.Main {
+  background-color: #000021;
+  height: 100vh;
+  color: #ff1200;
+  font-family: "Ubuntu Mono", monospace;
+}
+
+.header {
+  background-color: #ff3300;
+  color: #000021;
+  height: 100px;
+  font-size: 36px;
+  font-family: "Ubuntu Mono", monospace;
+}
+
+/*# sourceMappingURL=theme.module.css.map */

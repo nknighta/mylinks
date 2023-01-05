@@ -1,0 +1,14 @@
+.Main ul {
+  padding: 20px;
+}
+
+.Main ul li {
+  padding: 20px;
+  list-style-type: none;
+}
+
+.Text {
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=index.module.css.map */
