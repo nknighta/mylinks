@@ -8,7 +8,7 @@ export const BasicTheme = ({children}) => {
           <Head>
               <title>Nknight AMAMIYA official</title>
               <link rel="icon" href="/favicon.ico"/>
-              <meta name="twitter:image" content="https://nknight-official.vercel.app/images/favicon.ico"/>
+              <meta name="twitter:image" content="https://nknight-official.vercel.app/images/favicon.png"/>
           </Head>
           <Box className={style.Main}>
               <Box className={style.header}>
