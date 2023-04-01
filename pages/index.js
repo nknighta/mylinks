@@ -14,7 +14,7 @@ export default function Home() {
                     <li>
                         <Text className={IndexStyle.Text}>SNS</Text>
                         <ul>
-                            <Links link={"https://twitter.com/ama_p213"}>
+                            <Links link={"https://twitter.com/ama_dev_1"}>
                                 twitter
                             </Links>
                         </ul>
