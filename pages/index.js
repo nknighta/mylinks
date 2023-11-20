@@ -2,7 +2,6 @@ import {Text, Box} from "@chakra-ui/react";
 import Links from "../components/links";
 import IndexStyle from "./index.module.sass"
 import Image from "next/image"
-
 export default function Home() {
     return (
         <>
